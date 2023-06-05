@@ -23,6 +23,8 @@ Brain::Brain()
             _ideas[i] = "Dog3 savage sh*t like scratch human!";
         else if (i == 7)
             _ideas[i] = "Dog4 savage sh*t like scratch human!";
+        else
+            _ideas[i] = "Last savage sh*t like scratch human!";
     }
 }
 
